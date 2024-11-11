@@ -14,7 +14,7 @@ function App() {
         <li>Props</li>
         <li>Event Handler</li>
         <li>State</li>
-        <li>Loas Data</li>
+        <li>Load Data</li>
       </ol>
       <hr />
       <Posts></Posts>
